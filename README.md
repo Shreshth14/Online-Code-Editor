@@ -1,4 +1,4 @@
-# Dyte-Frontend-React---Online-Code-Editor
+# Online-Code-Editor
 
 ## Preparing System Requirements
 1. Install **_npm_** and **_node.js_** in your system from this link - https://nodejs.org/en/download/.
